@@ -22,16 +22,18 @@ This repository is a test bed of only using vanilla tools to make websites and w
 
 ## Why Make These Tools?
 Every single developer is expected to know how to make a to-do list and a calculator. This is my creation of simple web apps that developers are expected to know how to make.
+<br />
 
 ## Why use Vanilla HTML, CSS, JavaScript, and Node?
 Before allowing myself to use tools that make development easier, such as React, express.js, or any other commonly used Node packages, I would like to make these myself when possible.<br /><br />
 The purpose of these applications is to learn why these frameworks exist, and the problems that they solve, by experiencing the common difficulties with using vanilla tools.<br /><br />
 The other reason I want to use vanilla tools for this project, is because I think its more fun. While I appreciate other tools being made to make life easier, for me to truly learn and understand something, I have to get my hands dirty and learn how the underlying tools work.
+<br />
 
 ## This Project is Complete
 After finishing the to-do and calculator apps, and getting Node.js to work in serving these static pages, I consider this project finished. Additional apps can be added if desired.<br />
 I have two server files, one being how I managed routes in express.js and as second for plain Node. This was done to see what is abstracted from Node, compared to simpler route handling in express.
-
+<br />
 
 ---
 <br />
