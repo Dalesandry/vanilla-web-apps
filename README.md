@@ -9,13 +9,16 @@ This repository is a test bed of only using vanilla tools to make websites and w
 - To-do items are currently stored in *session storage* for the purpose of this project. When closing the browser tab running this web app, or closing the browser, the session storage will remove itself.
   - By default, I do not want persistent storage for this education project on your computer.
   - If you want to use local storage, replace every instance of `sessionStorage` with `localStorage` in this project's `script.js` file, and the To-Do items will persist even if the tab running this app, or the browser itself, is closed.
+<br /><br />
 
 ### - Calculator Vanilla
 - Using only HTML, CSS, and JavaScript, a simple calculator that can perform basic math operations: addition, subtraction, multiplication, and division.
  - All logic is coded by me, to parse a mathematical expression, then solve it using the order of operations, inspired by the functional programming paradigm.
+<br /><br />
 
 ### - Node.js Routing
 - No frameworks, such as express.js, were used. This is used to serve static web pages to the user. Navigation between the calculator and to-do list is possible through these routes.
+<br /><br />
 
 ---
 <br />
@@ -31,7 +34,8 @@ The other reason I want to use vanilla tools for this project, is because I thin
 <br /><br />
 
 ## This Project is Complete
-After finishing the to-do and calculator apps, and getting Node.js to work in serving these static pages, I consider this project finished. Additional apps can be added if desired.<br />
+After finishing the to-do and calculator apps, and getting Node.js to work in serving these static pages, I consider this project finished. Additional apps can be added if desired.
+<br /><br />
 I have two server files, one being how I managed routes in express.js and as second for plain Node. This was done to see what is abstracted from Node, compared to simpler route handling in express.
 <br /><br />
 
