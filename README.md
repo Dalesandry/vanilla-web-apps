@@ -26,7 +26,7 @@ Every single developer is expected to know how to make a to-do list and a calcul
 ## Why use Vanilla HTML, CSS, JavaScript, and Node?
 Before allowing myself to use tools that make development easier, such as React, express.js, or any other commonly used Node packages, I would like to make these myself when possible.<br /><br />
 The purpose of these applications is to learn why these frameworks exist, and the problems that they solve, by experiencing the common difficulties with using vanilla tools.<br /><br />
-The other reason I want to use vanilla tools for this project, is because I think its more fun. While I appreciate other tools being made to make life easier, for me to truly learn and understand something, I have to get my hands dirty and learn how the underlying tools work, that frameworks are built on.
+The other reason I want to use vanilla tools for this project, is because I think its more fun. While I appreciate other tools being made to make life easier, for me to truly learn and understand something, I have to get my hands dirty and learn how the underlying tools work.
 
 ## This Project is Complete
 After finishing the to-do and calculator apps, and getting Node.js to work in serving these static pages, I consider this project finished. Additional apps can be added if desired.
