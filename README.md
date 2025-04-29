@@ -29,8 +29,8 @@ The purpose of these applications is to learn why these frameworks exist, and th
 The other reason I want to use vanilla tools for this project, is because I think its more fun. While I appreciate other tools being made to make life easier, for me to truly learn and understand something, I have to get my hands dirty and learn how the underlying tools work.
 
 ## This Project is Complete
-After finishing the to-do and calculator apps, and getting Node.js to work in serving these static pages, I consider this project finished. Additional apps can be added if desired.
-If you like, I also managed routes through express.js, if you are interested in seeing the differences between how I got routes to work in express.js, compared to plain Node.
+After finishing the to-do and calculator apps, and getting Node.js to work in serving these static pages, I consider this project finished. Additional apps can be added if desired.<br />
+I have two server files, one being how I managed routes in express.js and as second for plain Node. This was done to see what is abstracted from Node, compared to simpler route handling in express.
 
 
 ---
