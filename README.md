@@ -12,7 +12,7 @@ This repository is a test bed of only using vanilla tools to make websites and w
 
 ### - Calculator Vanilla
 - Using only HTML, CSS, and JavaScript, a simple calculator that can perform basic math operations: addition, subtraction, multiplication, and division.
- - All logic is coded by me, to parse a mathematical expression, then solve it using the order of operations, inspired by the funcitonal programming paradigm.
+ - All logic is coded by me, to parse a mathematical expression, then solve it using the order of operations, inspired by the functional programming paradigm.
 
 ### - Node.js Routing
 - No frameworks, such as express.js, were used. This is used to serve static web pages to the user. Navigation between the calculator and to-do list is possible through these routes.
