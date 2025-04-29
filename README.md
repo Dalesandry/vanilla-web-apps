@@ -1,5 +1,5 @@
 # Vanilla Web App Collection
----
+<br />
 
 ## Fundamentals Of Web Dev
 This repository is a test bed of only using vanilla tools to make websites and web apps. This contains three separate projects that can be expanded on if needed.
